@@ -25,5 +25,6 @@ tar -xf kasm_release*.tar.gz
 sudo bash kasm_release/install.sh
 
 
+echo "DO NOT CLEAR THE SCREEN UNTIL YOU SCREENSHOT THE LOGIN! Take a screenshot by clicking Shift+Command+5"
 echo "Instalation Complete"
 exit
