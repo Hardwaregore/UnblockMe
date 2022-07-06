@@ -36,4 +36,5 @@ xfce4-session &
 # start tightvncserver
 tightvncserver
 
+echo "To Access this server from the internet, port forward port 5901"
 echo "Installation Complete!"
