@@ -6,5 +6,8 @@
 # Install chrome
 brew install --cask google-chrome
 
+# opens chrome
+open -a Google\ Chrome
+
 echo "Please Download the Kasm chrome extention"
 echo "Installation Complete!"
