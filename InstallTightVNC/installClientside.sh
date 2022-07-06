@@ -6,5 +6,5 @@
 # Installs vnc-viewer
 brew install --cask vnc-viewer
 
-echo "Please run the 'connect.sh' script to connect or manually use the GUI by typing 'open -a VNC\ Viewer'"
+echo "Please type the command 'open -a VNC\ Viewer' and in VNC Viewer, type <Your Server IP>:5901"
 echo "Installation Complete!"
