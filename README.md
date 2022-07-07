@@ -3,7 +3,7 @@ Unblocks all blocked websites using a VNC server / Installing Kasm Workspaces
 
 # Requirements:
 ### Kasm Install:
-To install Kasm Workspaces, your server must contain at least 6GiB ram and at least 80GiB of NVmE SSD Storeage and be running Ubuntu Server 20.04. Please checkout the kasm documentation <a href="https://kasmweb.com/docs/latest/install.html">here.</a>
+To install Kasm Workspaces, your server must contain at least 6GiB ram and at least 80GiB of NVmE SSD Storeage (Kasm eats more ram than chrome) and be running Ubuntu Server 20.04. Please checkout the kasm documentation <a href="https://kasmweb.com/docs/latest/install.html">here.</a>
 
 ### TightVncServer Install:
 To Install TightVncServer, your server must have at least 2GiB ram, 16GiB Storeage and be running any version of Ubuntu Server / Desktop. 
