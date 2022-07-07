@@ -60,7 +60,7 @@ In your browser, visit <a href="linode.com">this link.</a> Then, create your fre
 Watch <a href="https://www.youtube.com/watch?v=apC1bOLbzbY">this video</a> for installation instructions. Then, in the web ui, visit the server's IPv4. Then, click datastores, click new datastore, and follow the instructions. Then, click create or register a vm, follow the instructions. During the part where it asks you for the specs of the system, scroll down, click the dropdown for CD rom drive, and select datastore ISO. Create a folser called ISOs in your datastore. Then, click upload image. Download an iso <a href="ubuntu.com/download">here.</a> Select your iso, wait for it to upload, then select the iso again and click done. Then click Next. Click finish. Then, tap the play button to start the VM and follow the instructions to install ubuntu.
 
 
-### Method 4: Bare Meatel (You need a real computer that you can permanently delecate) [Not recommended]
+### Method 4: Bare Meatel (You need a real computer that you can permanently dedicate) [Not recommended]
 Get a computer you can sacrifice. Go to <a href="ventoy.net">this link</a> and download the zip file. Run ventoy2disk.exe and plug in a flash drive. Click the refresh button,and click continue. Accept the popups, and wait. After the flash is complete, move your ubuntu iso to the drive. Then, eject the drive. Plug the drive in and turn on your computer. In the BIOS, boot the dlash drive. Select your iso image in the ventoy menu and click enter. Follow the instructions to install ubuntu.
 
 
