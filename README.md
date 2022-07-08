@@ -1,5 +1,5 @@
 # UnblockMe
-Unblocks all blocked websites using a VNC server / Installing Kasm Workspaces
+We all hate school web ristrictions. Well, this is the solution! All you need is a server (VM) in your home network that runs Ubuntu Focal Fossa (20.4).
 
 # Requirements:
 ### Kasm Install:
