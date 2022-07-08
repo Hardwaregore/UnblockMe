@@ -25,6 +25,7 @@ xrdb $HOME/.Xresources
 xsetroot -solid grey
 
 xfce4-session &
+startxfce4 &
 
 # before Ubuntu 18.04:
 # gnome-settings-daemon &
