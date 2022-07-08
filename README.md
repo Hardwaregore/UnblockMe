@@ -57,7 +57,7 @@ Open VirtualBox, accept all of the popups, then click new. Enter in the specs yo
 
 
 ### Method 2: Cloud
-In your browser, visit <a href="linode.com">this link.</a> Then, create your free account. In the home page of linode, click new linode, and select the specs you need. For the OS, select "Ubuntu 20.04" Then, give it a hostname, set the root password, and click finish. After it is done "provisioning" copy the ssh command that looks like `ssh root@<an ip address>`, open the terminal (cmd), and past it in. Then, run the command for the version you need.
+In your browser, visit <a href="https://linode.com">this link.</a> Then, create your free account. In the home page of linode, click new linode, and select the specs you need. For the OS, select "Ubuntu 20.04" Then, give it a hostname, set the root password, and click finish. After it is done "provisioning" copy the ssh command that looks like `ssh root@<an ip address>`, open the terminal (cmd), and past it in. Then, run the command for the version you need.
 
 
 ### Method 3: VMWare (You need a physical server) [Not recommended]
@@ -65,7 +65,7 @@ Watch <a href="https://www.youtube.com/watch?v=apC1bOLbzbY">this video</a> for i
 
 
 ### Method 4: Bare Meatel (You need a real computer that you can permanently dedicate) [Not recommended]
-Get a computer you can sacrifice. Go to <a href="ventoy.net">this link</a> and download the zip file. Run ventoy2disk.exe and plug in a flash drive. Click the refresh button,and click continue. Accept the popups, and wait. After the flash is complete, move your ubuntu iso to the drive. Then, eject the drive. Plug the drive in and turn on your computer. In the BIOS, boot the dlash drive. Select your iso image in the ventoy menu and click enter. Follow the instructions to install ubuntu.
+Get a computer you can sacrifice. Go to <a href="https://ventoy.net">this link</a> and download the zip file. Run ventoy2disk.exe and plug in a flash drive. Click the refresh button,and click continue. Accept the popups, and wait. After the flash is complete, move your ubuntu iso to the drive. Then, eject the drive. Plug the drive in and turn on your computer. In the BIOS, boot the dlash drive. Select your iso image in the ventoy menu and click enter. Follow the instructions to install ubuntu.
 
 
 
