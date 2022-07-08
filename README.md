@@ -22,6 +22,8 @@ Then, Run this connamd on your client computer(MacOS/realvnc client):
 wget https://raw.githubusercontent.com/Hardwaregore/UnblockMe/main/InstallTightVNC/installClientside.sh && chmod 777 installClientside.sh && bash installClientside.sh
 ```
 
+If you use chromeOS or michalsoft bimbos, you have to download chrome from the web
+
 Make sure you port forward port 5901 to your host
 
 ### Install Kasm Workspaces
@@ -36,6 +38,8 @@ Then, ruh this command on the client computer(MacOs/Kasm Client):
 ```
 wget https://raw.githubusercontent.com/Hardwaregore/UnblockMe/main/InstallKasm/installClientside.sh && chmod 777 installClientside.sh && bash installClientside.sh
 ```
+
+If you use chromeOS or michalsoft bimbos, you have to download chrome 
 
 # Get a "server"
 There are many ways you can get the "server" I was talking about in my Readme.md.
